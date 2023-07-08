@@ -10,4 +10,4 @@ Add you data <a href="admin.php?page=chatdata">Chat data</a>
 
 
 <br><br>
- <a href="https://www.paypal.com/paypalme/patacorporation">Donate</a>
+ <a href="https://www.paypal.com/paypalme/patacorporation" target="_blank">Donate</a>
